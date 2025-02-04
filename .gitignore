@@ -6,6 +6,8 @@
 *.pyc
 *ipynb
 geckodriver.log
+venv
+.venv
 
 # Output files
 output.jl
